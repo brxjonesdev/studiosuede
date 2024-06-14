@@ -3,8 +3,8 @@
 studiosuede is a text-based learning website that teaches synthesis.
 
 ##### Course Tentative
-- **[[Introduction to Synthesis and Sound Design]]**
-- **[[Basics of Synthesis]]: Oscillators, Filters, Envelopes, LFOs**
+- **Introduction to Synthesis and Sound Design**
+- **Basics of Synthesis: Oscillators, Filters, Envelopes, LFOs**
 - **Types of Synthesis: Subtractives, Additives, FM, Wavetable**
 - **Sound Design Principles: Sampling, Effects, Audio Processing**
 - **Sampler Fundamentals:**
