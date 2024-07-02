@@ -143,8 +143,8 @@ export default function LandingPage() {
         </section>
         <section className="bg-bs_background text-white py-12 md:py-24 lg:py-32">
   <div className="container mx-auto px-4 md:px-6 space-y-8 flex justify-between items-center flex-wrap">
-    <h2 className="text-3xl font-bold md:text-5xl">About Me</h2>
-    <p className="text-xl max-w-[800px]">
+    <h2 className="text-3xl font-bold md:text-5xl  px-2">About Me</h2>
+    <p className="text-xl max-w-[800px]  px-2">
       I built this course to learn the basics of synthesis and sound design. I wanted to share my knowledge with others who are interested in music production and sound design. Currently, the course is still in progress. Once I achieve my main goal of getting a job, I&apos;ll be able to fully dedicate my time to finishing and launching it. I hope you enjoy the course and learn something new!
     </p>
     
